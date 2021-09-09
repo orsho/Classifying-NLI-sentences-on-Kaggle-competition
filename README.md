@@ -43,7 +43,7 @@ Accuracy: 0.9191
 We used following NLI resources in training the backend model of the adversarial collection:
 - [**SNLI**](https://nlp.stanford.edu/projects/snli/)
 - [**MultiNLI**](https://www.nyu.edu/projects/bowman/multinli/)
-- [**XNLI**](https://github.com/facebookresearch/XNLI)
+- [**XNLI**](https://cims.nyu.edu/~sbowman/xnli/)
 
 ## Citation
 ```
