@@ -16,7 +16,7 @@ This project has been used to implement our paper [Natural Language Inference (N
 * All the data sets are embedded within the notebook itself and no upload is required
 * The data folder contains the files that we changed their format for more convenient use. The other data sets were downloaded directly from the source 
 
-Below is one example (in CSV format) with self-explanatory fields:
+Below is one example (paired sentences) with self-explanatory fields:
 ```
 {   
     "id": "5130fd2cb5", 
