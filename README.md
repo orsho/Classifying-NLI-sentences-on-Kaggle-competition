@@ -11,6 +11,25 @@ This project has been used to implement our paper [Natural Language Inference (N
 * The notebook will work on any python IDE environment but it is best to open it in Colab
 * The notebook is divided into sections for better understanding the experiments and the models - It is recommended to use the side navigation bar in colab
 
+## Dataset
+
+* All the data sets are embedded within the notebook itself and no upload is required
+* The data folder contains the files that we changed their format for more convenient use. The other data sets were downloaded directly from the source 
+
+Below is one example (in CSV format) with self-explanatory fields:
+```
+{   
+    "id": "5130fd2cb5", 
+    "premise": "and these comments were considered in formulating the interim rules.", 
+    "hypothesis": "The rules developed in the interim were put together with these comments in mind", 
+    "label": "0 (entailment)", 
+    "language": "English."
+}
+```
+
+
+
+
 ## Brief summary of the process and experiments
 
 summarization of the process we performed and the key changes we made between each step until we found the model that brings the best results
