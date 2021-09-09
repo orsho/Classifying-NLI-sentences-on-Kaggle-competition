@@ -37,3 +37,26 @@ Accuracy: 0.9191
 | Precision | 0.9438 | 0.8936 | 0.9184 |
 | Recall | 0.9510 | 0.8750 | 0.9294 |
 | F1 | 0.9474 | 0.8842 | 0.9239 |
+
+## Other NLI Reference
+
+We used following NLI resources in training the backend model of the adversarial collection:
+- [**SNLI**](https://nlp.stanford.edu/projects/snli/)
+- [**MultiNLI**](https://www.nyu.edu/projects/bowman/multinli/)
+- [**XNLI**](https://github.com/facebookresearch/XNLI)
+
+## Citation
+```
+@inproceedings{nie-etal-2020-adversarial,
+    title = "Adversarial {NLI}: A New Benchmark for Natural Language Understanding",
+    author = "Nie, Yixin  and
+      Williams, Adina  and
+      Dinan, Emily  and
+      Bansal, Mohit  and
+      Weston, Jason  and
+      Kiela, Douwe",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    year = "2020",
+    publisher = "Association for Computational Linguistics",
+}
+```
