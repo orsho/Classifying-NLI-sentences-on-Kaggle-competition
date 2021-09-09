@@ -19,9 +19,9 @@ summarization of the process we performed and the key changes we made between ea
 
 ## Performance of the final trained models
 ----
-**joeddav/xlm-roberta-large-xnli**
+**All languages except English with pre-trained model - 'joeddav/xlm-roberta-large-xnli'**
 
-Accuracy: 0.9767.
+Accuracy: 0.9767
 |  | Entail | Neutral | Contradiction |
 |-------|-----------|--------|----|
 | Precision | 0.9926 | 0.9563 | 0.9814 |
@@ -29,7 +29,7 @@ Accuracy: 0.9767.
 | F1 | 0.9850 | 0.9698 | 0.9752 |
 
 ----
-**microsoft/deberta-v2-xlarge-mnli**
+**English sentences only with pre-trained model - 'microsoft/deberta-v2-xlarge-mnli'**
 
 Accuracy: 0.9191
 |  | Entail | Neutral | Contradiction |
