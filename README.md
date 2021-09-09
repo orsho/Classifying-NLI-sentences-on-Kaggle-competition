@@ -8,8 +8,8 @@ This project has been used to implement our paper [Natural Language Inference (N
 * Final Model based on 'joeddav/xlm-roberta-large-xnli' and 'microsoft/deberta-v2-xlarge-mnli'
 * Implemented using *PyTorch* (1.9.0)
 * All code is arranged in one [Colab notebook](https://colab.research.google.com/drive/1FSv1KRXfgW-Gz7Wo_n9xbOK39R35aO2p?usp=sharing)
-* The notebook is divided into sections for better understanding the experiments and the models
 * The notebook will work in any python IDE environment but it is best to open it in Colab
+* The notebook is divided into sections for better understanding the experiments and the models - It is recommended to use the side navigation bar in colab
 
 ## Brief summary of the process and experiments
 
