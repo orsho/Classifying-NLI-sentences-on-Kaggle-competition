@@ -21,14 +21,11 @@ Below is one example (in CSV format) with self-explanatory fields:
 {   
     "id": "5130fd2cb5", 
     "premise": "and these comments were considered in formulating the interim rules.", 
-    "hypothesis": "The rules developed in the interim were put together with these comments in mind", 
-    "label": "0 (entailment)", 
-    "language": "English."
+    "hypothesis": "The rules developed in the interim were put together with these comments in mind.", 
+    "label": "0" (entailment), 
+    "language": "English"
 }
 ```
-
-
-
 
 ## Brief summary of the process and experiments
 
