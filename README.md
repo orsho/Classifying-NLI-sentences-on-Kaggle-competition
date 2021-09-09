@@ -15,7 +15,7 @@ This project has been used to implement our paper [Natural Language Inference (N
 
 summarization of the process we performed and the key changes we made between each step until we found the model that brings the best results
 
-![process and experiments](process.jpg)
+<img src="process.jpg" width="100" height="100">
 
 ## Performance of Trained Models
 ----
