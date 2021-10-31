@@ -5,7 +5,7 @@ This project implement our paper [Natural Language Inference (NLI) Models, Devel
 
 ## Highlighted Features
 
-* Final Model based on 'joeddav/xlm-roberta-large-xnli' and 'microsoft/deberta-v2-xlarge-mnli'
+* Final Model based on 'joeddav/xlm-roberta-large-xnli' and 'microsoft/deberta-v2-xlarge-mnli' pre-trained models
 * Implemented using *PyTorch* (1.9.0)
 * All code is arranged in one [Colab notebook](https://colab.research.google.com/drive/1FSv1KRXfgW-Gz7Wo_n9xbOK39R35aO2p?usp=sharing)
 * The notebook will work on any python IDE environment but it is best to open it in Colab
@@ -13,7 +13,7 @@ This project implement our paper [Natural Language Inference (NLI) Models, Devel
 
 ## Dataset
 
-* All the data sets are embedded within the notebook itself and no upload is required
+* All the datasets are embedded within the notebook itself and no upload is required
 * The data folder contains the files that we changed their format for more convenient use. The other data sets were downloaded directly from the source 
 
 Below is one example (paired sentences) with self-explanatory fields:
