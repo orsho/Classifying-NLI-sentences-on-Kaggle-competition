@@ -14,7 +14,7 @@ This project implement our paper [Natural Language Inference (NLI) Models, Devel
 ## Dataset
 
 * All the datasets are embedded within the notebook itself and no upload is required
-* The data folder contains the files that we changed their format for more convenient use. The other data sets were downloaded directly from the source 
+* The data folder contains the files that we changed their format for more convenient use. The other datasets were downloaded directly from the source 
 
 Below is one example (paired sentences) with self-explanatory fields:
 ```
@@ -45,7 +45,7 @@ Accuracy: 0.9767
 | F1 | 0.9850 | 0.9698 | 0.9752 |
 
 ----
-**English sentences only with pre-trained model - 'microsoft/deberta-v2-xlarge-mnli'**
+**English sentences with pre-trained model - 'microsoft/deberta-v2-xlarge-mnli'**
 
 Accuracy: 0.9191
 |  | Entail | Neutral | Contradiction |
